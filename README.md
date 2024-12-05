@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with With MERN Projects 
+## MERN stand for MongoDB, Express, React, and Node.js,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
